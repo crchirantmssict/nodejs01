@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express": "^4.18.2",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
@@ -12,5 +13,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "The repository contains a simple Node.js and React application which generates a web page with the content \"Welcome to React\" and is accompanied by a test to check that the application renders satisfactorily.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crchirantmssict/nodejs01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crchirantmssict/nodejs01/issues"
+  },
+  "homepage": "https://github.com/crchirantmssict/nodejs01#readme"
 }
